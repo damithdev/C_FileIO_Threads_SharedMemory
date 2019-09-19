@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/damithwarnakulasuriya/CLionProjects/shmclient/main.c
+stdio.h
+-
+stdlib.h
+-
+sys/types.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+unistd.h
+-
+shm-02.h
+/Users/damithwarnakulasuriya/CLionProjects/shmclient/shm-02.h
+
+/Users/damithwarnakulasuriya/CLionProjects/shmclient/shm-02.h
+

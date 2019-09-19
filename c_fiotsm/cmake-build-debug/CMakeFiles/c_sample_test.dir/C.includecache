@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/damithwarnakulasuriya/CLionProjects/c_fiotsm/main.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+pthread.h
+-
+string.h
+-
+stdbool.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+shm-02.h
+/Users/damithwarnakulasuriya/CLionProjects/c_fiotsm/shm-02.h
+
+/Users/damithwarnakulasuriya/CLionProjects/c_fiotsm/shm-02.h
+

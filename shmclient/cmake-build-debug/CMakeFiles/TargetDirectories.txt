@@ -1,0 +1,3 @@
+/Users/damithwarnakulasuriya/CLionProjects/shmclient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/damithwarnakulasuriya/CLionProjects/shmclient/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/damithwarnakulasuriya/CLionProjects/shmclient/cmake-build-debug/CMakeFiles/shmclient.dir
